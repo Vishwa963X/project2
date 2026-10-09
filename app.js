@@ -1,2 +1,2 @@
-//To add new features in the future, we can use this file to manage our app's 
-// main logic and configurations.
+// To add new features, you can modify this file. 
+// This is the main entry point of the application.
